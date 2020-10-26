@@ -7,7 +7,7 @@ headers = {
     Chrome/77.0.3865.90 Safari/537.36',
     'Referer': 'https://m.weibo.cn/u/2830678474'
 }
-print("just for test!")
+print("just for test2")
 
 def get_one_page(offset):
     params = {

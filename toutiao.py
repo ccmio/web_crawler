@@ -6,7 +6,7 @@ from multiprocessing.pool import Pool
 
 base_url = 'https://www.toutiao.com/api/search/content/?'
 
-
+print("just for test2")
 def get_one_page(offset):
     params = {
         'app_name': 'web_search',
